@@ -1,0 +1,56 @@
+body 
+{
+    background-color:#f7e3ea;
+    color: black;
+    font-size: 50px;
+}
+
+.site_content
+{
+    background-color: azure;
+    height: 550px;
+    width: 75%;
+    margin-top: 45px;
+    display: flex;
+    color: #5b5658;
+    padding: 10px;
+    justify-content: space-evenly;
+    margin-left: 120px;
+}
+.main_material
+{
+font-size: 20px;
+margin-left: 15px;
+}
+ul {
+    list-style-type: none;
+   }
+
+.h4{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bi{
+    color: purple;
+    font-size: 30px;
+}
+.fa{
+    color: purple;
+    font-size: 30px;
+}
+.nav-icon{
+    font-size: 30px;
+    width: 20%;
+    margin-top: 43px;
+}
+
+.middle-icon{
+    margin-top: 110px;
+}
+.last-icon{
+    margin-top: 120px;
+}
+.top-icon{
+    background-color: purple;
+    color: white;
+}
